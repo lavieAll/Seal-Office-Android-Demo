@@ -1,6 +1,6 @@
 ## Seal-OfficeOnline文档预览插件原生Android项目集成方式
 
-[Github访问](https://github.com/silianpan/Seal-Office-Android-Demo)
+[Github访问](https://github.com/lavieAll/Seal-Office-Android-Demo)
 
 [国内Gitee访问](https://gitee.com/twofloor/Seal-Office-Android-Demo)
 
@@ -35,7 +35,7 @@ UniApp项目集成方式，参考：[插件市场](https://ext.dcloud.net.cn/plu
 
 #### 1、Demo工程地址
 
-[Demo工程](https://github.com/silianpan/Seal-Office-Android-Demo)
+[Demo工程](https://github.com/lavieAll/Seal-Office-Android-Demo)
 
 #### 2、联系客服获取License授权
 
@@ -43,7 +43,7 @@ UniApp项目集成方式，参考：[插件市场](https://ext.dcloud.net.cn/plu
 
 * 创建src/main/assets/seal-office.license文件，并添加授权码
 
-* 添加QQ号（2480621579）获取授权码
+* 添加WX号（BJGFCYY）或QQ号（2480621579）获取授权码
 
 #### 3、添加依赖
 
@@ -107,7 +107,7 @@ SealOfficeEngineApi.initEngine(MainActivity.this, new ISealReaderCallback() {
 
 #### 6、接口调用
 
-#### 注意：接口参数请参考：[五、openFile接口参数说明](https://github.com/silianpan/Seal-UniPlugin-Demo)
+#### 注意：接口参数请参考：[五、openFile接口参数说明](https://github.com/lavieAll/Seal-UniPlugin-Demo)
 
 ##### （1）打开Office文档（支持wps、doc、docx、xls、xlsx、csv、ppt、pptx、txt、properties、log、Log、ini、lua、conf、m、cpp、java、h、xml、html、htm等常见文档格式）
 
